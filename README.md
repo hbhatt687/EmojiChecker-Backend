@@ -1,4 +1,5 @@
 # EmojiChecker-Backend
+![project_poster](https://github.com/hbhatt687/EmojiChecker-Backend/blob/master/Screen%20Shot%202019-03-05%20at%209.55.28%20PM.png)
 [emoji-survey.me](http://emoji-survey.me) 
 
 [emoji-survey.me/auth](http://emoji-survey.me/auth)
